@@ -6,7 +6,19 @@
 
 * Skills: HTML,CSS.
 
+* My code: ```<style>
+  .border-bold {
+    border: 5px solid #2196f3;
+  }
+</style>
 
+<div class="border-bold">Блок с рамкой</div>```
+
+* Experienc: No work experience.
+
+* Education: BSATU
+
+* English level: A1
 
 
  
