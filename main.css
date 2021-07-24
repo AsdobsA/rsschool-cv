@@ -20,3 +20,16 @@
     border-radius: 10px;
     border: solid 3px #635959
 }
+
+.footer-img {
+    margin: 2%;
+}
+
+.foter-img__logo-title {
+    margin: 2%;
+    width: 100px;
+}
+
+.data {
+    text-align: center;
+}
