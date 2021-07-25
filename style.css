@@ -6,6 +6,9 @@
     max-width: 1440px;
     margin: 0 auto;
     padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .my-name {
@@ -21,6 +24,13 @@
     border: solid 3px #635959
 }
 
+.footer {
+    display: flex;
+    align-items: center;
+    width: 90%;
+    justify-content: space-evenly;
+}
+
 .footer-img {
     margin: 2%;
 }
@@ -33,3 +43,4 @@
 .data {
     text-align: center;
 }
+
