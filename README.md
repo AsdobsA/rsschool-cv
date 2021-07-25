@@ -1,1 +1,1 @@
-https://AsdobsA-github-account.github.io/rsschool-cv/cv
+https://AsdobsA-github-account.github.io/rsschool-cv/
