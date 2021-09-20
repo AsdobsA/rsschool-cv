@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+  }
+
 .content {
     background-color: #e0d7d7;
 }
@@ -11,6 +15,10 @@
     align-items: center;
 }
 
+.a :hover {
+    color: darkred;
+}
+
 .my-name {
     text-align: left;
     padding: 30px 0 0 30px;
@@ -21,7 +29,7 @@
     max-width: 150px;
     filter: grayscale(100%);
     border-radius: 10px;
-    border: solid 3px #635959
+    border: solid 3px;
 }
 
 .footer {
