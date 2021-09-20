@@ -17,6 +17,7 @@ html {
 
 .a :hover {
     color: darkred;
+    transition: 1s;
 }
 
 .my-name {
@@ -29,7 +30,7 @@ html {
     max-width: 150px;
     filter: grayscale(100%);
     border-radius: 10px;
-    border: solid 3px;
+    border: solid 3px blue;
 }
 
 .footer {
