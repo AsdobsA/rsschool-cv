@@ -1,11 +1,11 @@
 # Aliaksandr Samakar
 
-#### Phone: 
+#### Phone:
 *+375293126072*
 
 I work in the company as an __engineer__. Responsible, communicative, enterprising. study, study and study is my motto.
 
-### Skills: 
+### Skills:
 * HTML5
 * SASS
 * SCSS
@@ -26,6 +26,3 @@ I work in the company as an __engineer__. Responsible, communicative, enterprisi
 ### Education: BSATU
 
 ### English level: *A1*
-
-
- 
